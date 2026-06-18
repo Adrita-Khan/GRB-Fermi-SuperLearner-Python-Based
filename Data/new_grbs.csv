@@ -1,4 +1,0 @@
-GRB_name,T90,Epeak,Fluence,Flux,alpha,beta,spectral_model
-GRB_NewA,45.0,320.0,8.5e-06,NA,-0.95,-2.30,BAND
-GRB_NewB,120.0,580.0,2.2e-05,NA,-0.75,0,COMP
-GRB_NewC,30.0,190.0,NA,1.1e-07,-1.10,-2.10,BAND
