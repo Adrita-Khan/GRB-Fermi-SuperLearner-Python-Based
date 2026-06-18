@@ -5,18 +5,6 @@ adapted for **Fermi-GBM prompt emission data**.
 
 ---
 
-## Pipeline Overview
-
-```
-Step 0  Place your data           →  Data/fermi_grb_data.csv
-Step 1  Install dependencies      →  pip install -r requirements.txt
-Step 2  Preprocess & impute       →  python Scripts/01_preprocess.py
-Step 3  LASSO feature selection   →  python Scripts/02_lasso.py
-Step 4  Formula / feature search  →  python Scripts/04_formula_search.py
-Step 5  M-estimator outlier cut   →  python Scripts/03_m_estimator.py
-Step 6  SuperLearner training     →  python Scripts/05_superlearner.py
-Step 7  Predict new GRBs          →  python Scripts/06_predict_new.py
-```
 
 ---
 
