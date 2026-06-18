@@ -5,9 +5,6 @@ adapted for **Fermi-GBM prompt emission data**.
 
 ---
 
-
----
-
 ## Python equivalents of R packages
 
 | R package       | Python equivalent used here          |
